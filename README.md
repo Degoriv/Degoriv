@@ -1,7 +1,7 @@
-![image](https://github.com/Degoriv/Degoriv/assets/132955136/82da8c07-a59c-4b01-af37-f2aca6578857)<h1 align="center">
+<h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sometype+Mono&pause=1000&color=74A749&center=true&multiline=true&random=false&width=435&lines=(%E2%97%8E_%E2%8A%99)+hiiiiiiii+(%E2%8A%99_%E2%97%8E);AAAAAAAAAAAAAAAAA!!" alt="Typing SVG" />
 </h1></a>
-<h3 align="center">𝐇𝐨𝐥𝐚 𝐬𝐨𝐲 𝗚𝗼𝗴𝗼</h3>
+<h3 align="center">𝐡𝐢 𝐚𝐦 𝐠𝐨𝐠𝐨</h3>
 <p align="center">
   <img src="https://i.imgur.com/XhA1hJb.gif" alt="Welcome" width="100" height="100">
 </p>
@@ -28,20 +28,19 @@
 </div>
  <hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages (⊙_⊙) ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github" />
     <img src="https://skillicons.dev/icons?i=python,c" /><br>
 </div>
 <br/>
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>pic of me 👍📷</h2>
   <br>
   <!--<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />-->
-  <img src="https://i.imgur.com/BQDAift.gif" alt="Welcome" width="500" height="500">
+  <img src="https://i.imgur.com/gdmF2xe.gif" alt="Welcome" width="500" height="500">
 
 
     
