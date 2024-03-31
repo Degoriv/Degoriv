@@ -4,7 +4,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Waiting+for+the+Sunrise&size=50&pause=1000&color=C00000&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Hi+There!;I'm+Sarwak" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">A Data Science student from Chile 🇨🇱🎓</h3>
+<h3 align="center">AAAAAAAAAA🎓</h3>
 <!--
 <br/>
 <div align="center">
